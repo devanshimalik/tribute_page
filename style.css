@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+*{
+    font-size: 21px;
+}
+
+body{
+    margin: 40px;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-image: linear-gradient(to bottom right,  #7419dc, #8e076a);
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 1px;
+}
+
+#sub_text{
+    text-align: center;
+    font-size: 30px;
+}
+
+.image{
+    display: block;
+    width: 80%;
+    margin: auto;
+    font-style: italic;
+    font-size: 25px;
+}
+
+/*.capt{
+    font-style: italic;
+    font-size: 25px;
+}*/
+
+h2{
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 5px 5px 10px black;
+}
+
+.text{
+    border: 1px solid #3077b1;
+    margin: 10px;
+    border-radius: 7px;
+}
+
+p{
+    margin: 10px;
+}
